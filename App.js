@@ -4,7 +4,7 @@ import {NavigationContainer} from '@react-navigation/native';
 import {SafeAreaProvider} from 'react-native-safe-area-context';
 import Home from './src/index';
 import Aniuta from './src/Aniuta/AniutaView';
-import AppearAnimationView from './src/AppearAnimation /AppearAnimationView';
+import AppearAnimationView from './src/AppearAnimation/AppearAnimationView';
 import DeleteButton from './src/DeleteButtonView/button';
 import Login from './src/Login/index';
 import SwayingScroll from './src/SwayingScroll/App';
